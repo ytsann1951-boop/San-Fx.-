@@ -1,97 +1,123 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>San FX | Strategi Johan 500rb ke 50 Juta</title>
-    <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background-color: #0f172a; color: white; line-height: 1.6; }
-        header { background: linear-gradient(90deg, #1e293b, #334155); padding: 20px; text-align: center; border-bottom: 2px solid #38bdf8; }
-        .container { max-width: 1000px; margin: auto; padding: 20px; }
-        .hero { text-align: center; padding: 60px 20px; background: radial-gradient(circle, #1e293b 0%, #0f172a 100%); }
-        .hero h1 { color: #38bdf8; font-size: 2.5em; margin-bottom: 10px; }
-        .highlight { color: #fbbf24; font-weight: bold; }
-        .card { background: #1e293b; padding: 25px; border-radius: 12px; margin: 20px 0; border: 1px solid #334155; }
-        table { width: 100%; border-collapse: collapse; margin: 20px 0; background: #0f172a; }
-        th, td { border: 1px solid #334155; padding: 12px; text-align: center; }
-        th { background-color: #38bdf8; color: #0f172a; }
-        .btn { display: inline-block; background: #38bdf8; color: #0f172a; padding: 15px 30px; text-decoration: none; border-radius: 50px; font-weight: bold; margin-top: 20px; transition: 0.3s; }
-        .btn:hover { background: #fbbf24; transform: scale(1.05); }
-        .status-success { color: #4ade80; font-weight: bold; }
-        footer { text-align: center; padding: 40px; font-size: 0.8em; color: #94a3b8; }
-    </style>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>San Fx / Johan Tradity – Trader Forex Asal Karawang</title>
+  <meta name="description" content="Profil singkat San Fx (Johan Tradity), trader forex asal Karawang. Edukator keuangan, analisis pasar, dan konten edukasi untuk pemula." />
+  <meta name="robots" content="index, follow" />
+  <!-- Open Graph -->
+  <meta property="og:title" content="San Fx / Johan Tradity – Trader Forex Asal Karawang" />
+  <meta property="og:description" content="Profil San Fx (Johan Tradity), trader forex asal Karawang. Edukator keuangan, analisis pasar, dan konten edukasi untuk pemula." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://yourdomain.com/" />
+  <meta property="og:image" content="https://yourdomain.com/assets/og-image.jpg" />
+  <!-- CSS minimal (inline untuk satu-file) -->
+  <style>
+    :root{
+      --bg: #0b1020;
+      --card: #181f3a;
+      --text: #e8eaf6;
+      --muted: #a6b0d6;
+      --accent: #ff7a18;
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;padding:0;height:100%}
+    body{
+      font-family: Arial, Helvetica, sans-serif;
+      color: var(--text);
+      background: #0b1020;
+      line-height:1.6;
+    }
+    header{padding:16px 20px;border-bottom:1px solid rgba(255,255,255,.08);position:sticky;top:0;background:rgba(7,12,28,.95);z-index:10}
+    .brand{display:flex;gap:12px;align-items:center}
+    .brand-logo{width:34px;height:34px;border-radius:6px;background:linear-gradient(135deg,var(--accent),#ff4d6d)}
+    nav{margin-left:auto}
+    nav a{color:#e9e9e9;text-decoration:none;margin:0 8px;font-weight:500;font-size:14px}
+    .container{max-width:1000px;margin:0 auto;padding:20px}
+    .hero{display:flex;gap:20px;flex-wrap:wrap;align-items:center;padding:10px 0}
+    .hero-text{flex:1;min-width:260px}
+    h1{font-size:28px;margin:0 0 8px}
+    p{color:var(--muted)}
+    .card{background:#181f3a;border-radius:10px;padding:16px;margin:12px 0}
+    h2{font-size:20px;margin:12px 0}
+    ul{margin:0 0 0 18px}
+    li{margin:6px 0}
+    footer{text-align:center;padding:20px 10px;border-top:1px solid rgba(255,255,255,.08);color:#a6a6a6}
+    /* Responsiveness */
+    @media (max-width: 600px){
+      h1{font-size:24px}
+      .hero{flex-direction:column}
+    }
+  </style>
 </head>
 <body>
+  <header>
+    <div class="brand" aria-label="Brand San Fx">
+      <span class="brand-logo" aria-hidden="true"></span>
+      <div>
+        <strong>San Fx / Johan Tradity</strong><br/>
+        <small style="color:#aab6e0">Trader Forex Asal Karawang</small>
+      </div>
+    </div>
+  </header>
 
-<header>
-    <h1>SAN FX <span style="font-size: 0.5em; vertical-align: middle;">OFFICIAL</span></h1>
-</header>
-
-<div class="hero">
-    <h1>Metode "Johan": Mengubah <span class="highlight">500 Ribu</span> Menjadi <span class="highlight">50 Juta</span></h1>
-    <p>Strategi Compounding Konsisten dalam 30 Hari oleh San FX.</p>
-    <a href="#" class="btn">GABUNG KOMUNITAS SEKARANG</a>
-</div>
-
-<div class="container">
-    <section class="card">
-        <h2>Kisah Sang Johan</h2>
-        <p>Banyak yang tidak percaya bahwa modal <strong>Rp 500.000</strong> bisa menjadi <strong>Rp 50.000.000</strong> dalam sebulan. San FX membuktikan bahwa dengan psikologi yang matang dan manajemen risiko yang ketat, target tersebut bukanlah mustahil. Ini bukan tentang keberuntungan, ini tentang presisi.</p>
+  <main class="container" id="beranda" aria-label="Beranda">
+    <!-- Hero -->
+    <section class="hero" aria-label="Intro">
+      <div class="hero-text">
+        <h1>San Fx / Johan Tradity</h1>
+        <p>Trader Forex asal Karawang yang berbagi edukasi, analisis pasar, dan praktik trading yang bertanggung jawab. Pelajari literasi keuangan melalui konten edukatif.</p>
+      </div>
+      <div class="card" style="min-width:240px;flex:0 0 260px;text-align:center">
+        <img src="https://via.placeholder.com/240x140.png?text=San+Fx" alt="Gambar profil San Fx" style="width:100%;border-radius:6px">
+      </div>
     </section>
 
-    <section class="card">
-        <h2>Log Pencairan (Withdrawal Proof)</h2>
-        <p>Transparansi adalah kunci. Berikut adalah rekapitulasi pertumbuhan akun dan penarikan dana ke rekening pribadi:</p>
-        <table>
-            <thead>
-                <tr>
-                    <th>Periode</th>
-                    <th>Target Saldo</th>
-                    <th>Status WD</th>
-                    <th>Nominal Cair</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>Minggu 1</td>
-                    <td>Rp 3.500.000</td>
-                    <td>Compounding</td>
-                    <td>-</td>
-                </tr>
-                <tr>
-                    <td>Minggu 2</td>
-                    <td>Rp 12.000.000</td>
-                    <td class="status-success">BERHASIL</td>
-                    <td>Rp 2.000.000</td>
-                </tr>
-                <tr>
-                    <td>Minggu 3</td>
-                    <td>Rp 30.000.000</td>
-                    <td>Compounding</td>
-                    <td>-</td>
-                </tr>
-                <tr>
-                    <td>Minggu 4</td>
-                    <td>Rp 50.000.000</td>
-                    <td class="status-success">BERHASIL</td>
-                    <td>Rp 40.000.000</td>
-                </tr>
-            </tbody>
-        </table>
-        <p style="font-style: italic; font-size: 0.9em;">*Hasil di atas adalah nyata berdasarkan history trading San FX bulan ini.</p>
+    <!-- Tentang -->
+    <section id="tentang" aria-labelledby="tentang-title" class="card">
+      <h2 id="tentang-title">Tentang San Fx / Johan Tradity</h2>
+      <ul>
+        <li><strong>Identitas:</strong> San Fx (panggung) | Johan Tradity (nama alternatif)</li>
+        <li><strong>Asal:</strong> Karawang, Jawa Barat, Indonesia</li>
+        <li><strong>Bidang:</strong> Trader Forex, analis pasar, edukator keuangan</li>
+        <li><strong>Konten:</strong> analisis pasar, manajemen risiko, panduan pemula</li>
+        <li><strong>Media Sosial:</strong> TikTok: San fx | Instagram: Johan tradity | Facebook: San Fx</li>
+      </ul>
     </section>
 
-    <section style="text-align: center; padding: 20px;">
-        <h3>Siap Menjadi Johan Berikutnya?</h3>
-        <p>Jangan biarkan modal kecil menghalangi langkahmu. Pelajari tekniknya sekarang.</p>
-        <a href="https://wa.me/yournumber" class="btn">KONSULTASI GRATIS</a>
+    <!-- Kisah Sukses (ringkas) -->
+    <section id="kisah-sukses" aria-labelledby="kisah-title" class="card">
+      <h2 id="kisah-title">Kisah Sukses Singkat</h2>
+      <p>Profil singkat tentang perjalanan belajar dan kontribusi edukatif di komunitas Karawang. Konten-konten yang membahas literasi keuangan dan praktik trading yang bertanggung jawab.</p>
     </section>
-</div>
 
-<footer>
-    <p>&copy; 2024 San FX Trading Strategy. All Rights Reserved.</p>
-    <p>DISCLAIMER: Trading melibatkan risiko finansial. Pastikan Anda menggunakan dana dingin.</p>
-</footer>
+    <!-- Galeri -->
+    <section id="galeri" aria-labelledby="galeri-title" class="card">
+      <h2 id="galeri-title">Galeri & Media</h2>
+      <p>Cuplikan acara, konten edukasi, dan kutipan inspiratif terkait perjalanan trading di Karawang.</p>
+    </section>
 
+    <!-- Kontak -->
+    <section id="kontak" aria-labelledby="kontak-title" class="card">
+      <h2 id="kontak-title">Kontak</h2>
+      <p>Untuk kolaborasi, workshop, atau wawancara, hubungi melalui media sosial atau formulir singkat di bawah.</p>
+      <form action="#" method="post" aria-label="Form Kontak yang sederhana">
+        <div style="display:flex;gap:8px;flex-wrap:wrap">
+          <input aria-label="Nama" name="name" placeholder="Nama" required style="flex:1 1 200px;padding:10px;border-radius:6px;border:1px solid #334;background:#0b1230;color:white">
+          <input aria-label="Email" name="email" type="email" placeholder="Email" required style="flex:1 1 200px;padding:10px;border-radius:6px;border:1px solid #334;background:#0b1230;color:white">
+        </div>
+        <div style="margin-top:8px">
+          <textarea aria-label="Pesan" name="message" placeholder="Pesan..." rows="4" style="width:100%;padding:10px;border-radius:6px;border:1px solid #334;background:#0b1230;color:white"></textarea>
+        </div>
+        <button type="submit" class="card" style="border:none;background:#1e9ae3;color:white;padding:10px 14px;border-radius:6px;margin-top:8px;cursor:pointer">Kirim</button>
+      </form>
+      <p style="color:#9aa7d9;margin-top:8px">Media sosial utama: TikTok: San fx | IG: Johan Tradity | FB: San Fx</p>
+    </section>
+  </main>
+
+  <footer>
+    © 2026 San Fx | Karawang, Indonesia
+  </footer>
 </body>
 </html>
